@@ -1,0 +1,7 @@
+1. Play against a computer
+x2. Reset gameboard
+x3. Keep Score
+x4. "Play again?" Option
+5. User input for Player name
+x6. Make it look nice
+7. Store scores in local storage
